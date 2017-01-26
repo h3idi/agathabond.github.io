@@ -18,3 +18,4 @@ Agatha Bond
 * {:.article} ![medium](https://medium.com/favicon.ico) [Coding Like a Girl](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce#.x7e5f0vk8)
 * {:.article} ![MashableUK](http://mashable.com/favicon.ico) [This is what happens to your brain when you give up sugar](http://mashable.com/2015/02/18/brain-on-sugar/#Px664RNBsiqw)
 * {:.article} ![Women You Should Know](http://www.womenyoushouldknow.net/favicon.ico) [The Little Girl from the 1981 LEGO Ad is All Grown Up, and She’s Got Something to Say](http://www.womenyoushouldknow.net/little-girl-1981-lego-ad-grown-shes-got-something-say/)
+* {:.article} ![The Guardian](https://www.theguardian.com/favicon.ico) [Zero tolerance' for pregnancy discrimination in workplace – minister](https://www.theguardian.com/money/2017/jan/26/protection-from-redundancy-for-pregnant-women-to-be-reviewed)
